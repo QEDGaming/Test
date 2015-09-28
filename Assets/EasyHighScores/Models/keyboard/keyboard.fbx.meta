@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 437a9c3a6f8e7430cb3c6792d81f229c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: case
+    100002: Cloner
+    100004: Cube
+    100006: Key 0
+    100008: Key 1
+    100010: Key 2
+    100012: Key 3
+    100014: Key 4
+    100016: Key 5
+    100018: Key 6
+    100020: Key 7
+    100022: Key 8
+    100024: Key 9
+    100026: Key a
+    100028: Key b
+    100030: Key c
+    100032: Key d
+    100034: Key del
+    100036: Key done
+    100038: Key e
+    100040: Key f
+    100042: Key g
+    100044: Key h
+    100046: Key i
+    100048: Key j
+    100050: Key k
+    100052: Key l
+    100054: Key m
+    100056: Key n
+    100058: Key o
+    100060: Key p
+    100062: Key q
+    100064: Key r
+    100066: Key s
+    100068: Key space
+    100070: Key t
+    100072: Key u
+    100074: Key v
+    100076: Key w
+    100078: Key x
+    100080: Key y
+    100082: Key z
+    100084: //RootNode
+    400000: case
+    400002: Cloner
+    400004: Cube
+    400006: Key 0
+    400008: Key 1
+    400010: Key 2
+    400012: Key 3
+    400014: Key 4
+    400016: Key 5
+    400018: Key 6
+    400020: Key 7
+    400022: Key 8
+    400024: Key 9
+    400026: Key a
+    400028: Key b
+    400030: Key c
+    400032: Key d
+    400034: Key del
+    400036: Key done
+    400038: Key e
+    400040: Key f
+    400042: Key g
+    400044: Key h
+    400046: Key i
+    400048: Key j
+    400050: Key k
+    400052: Key l
+    400054: Key m
+    400056: Key n
+    400058: Key o
+    400060: Key p
+    400062: Key q
+    400064: Key r
+    400066: Key s
+    400068: Key space
+    400070: Key t
+    400072: Key u
+    400074: Key v
+    400076: Key w
+    400078: Key x
+    400080: Key y
+    400082: Key z
+    400084: //RootNode
+    2300000: case
+    2300002: Cube
+    2300004: Key 0
+    2300006: Key 1
+    2300008: Key 2
+    2300010: Key 3
+    2300012: Key 4
+    2300014: Key 5
+    2300016: Key 6
+    2300018: Key 7
+    2300020: Key 8
+    2300022: Key 9
+    2300024: Key a
+    2300026: Key b
+    2300028: Key c
+    2300030: Key d
+    2300032: Key del
+    2300034: Key done
+    2300036: Key e
+    2300038: Key f
+    2300040: Key g
+    2300042: Key h
+    2300044: Key i
+    2300046: Key j
+    2300048: Key k
+    2300050: Key l
+    2300052: Key m
+    2300054: Key n
+    2300056: Key o
+    2300058: Key p
+    2300060: Key q
+    2300062: Key r
+    2300064: Key s
+    2300066: Key space
+    2300068: Key t
+    2300070: Key u
+    2300072: Key v
+    2300074: Key w
+    2300076: Key x
+    2300078: Key y
+    2300080: Key z
+    3300000: case
+    3300002: Cube
+    3300004: Key 0
+    3300006: Key 1
+    3300008: Key 2
+    3300010: Key 3
+    3300012: Key 4
+    3300014: Key 5
+    3300016: Key 6
+    3300018: Key 7
+    3300020: Key 8
+    3300022: Key 9
+    3300024: Key a
+    3300026: Key b
+    3300028: Key c
+    3300030: Key d
+    3300032: Key del
+    3300034: Key done
+    3300036: Key e
+    3300038: Key f
+    3300040: Key g
+    3300042: Key h
+    3300044: Key i
+    3300046: Key j
+    3300048: Key k
+    3300050: Key l
+    3300052: Key m
+    3300054: Key n
+    3300056: Key o
+    3300058: Key p
+    3300060: Key q
+    3300062: Key r
+    3300064: Key s
+    3300066: Key space
+    3300068: Key t
+    3300070: Key u
+    3300072: Key v
+    3300074: Key w
+    3300076: Key x
+    3300078: Key y
+    3300080: Key z
+    4300000: Cube
+    4300002: Key space
+    4300004: Key z
+    4300006: Key x
+    4300008: Key c
+    4300010: Key v
+    4300012: Key b
+    4300014: Key n
+    4300016: Key m
+    4300018: Key done
+    4300020: Key a
+    4300022: Key s
+    4300024: Key d
+    4300026: Key f
+    4300028: Key g
+    4300030: Key h
+    4300032: Key j
+    4300034: Key k
+    4300036: Key l
+    4300038: Key del
+    4300040: Key q
+    4300042: Key w
+    4300044: Key e
+    4300046: Key r
+    4300048: Key t
+    4300050: Key y
+    4300052: Key u
+    4300054: Key i
+    4300056: Key o
+    4300058: Key p
+    4300060: Key 1
+    4300062: Key 2
+    4300064: Key 3
+    4300066: Key 4
+    4300068: Key 5
+    4300070: Key 6
+    4300072: Key 7
+    4300074: Key 8
+    4300076: Key 9
+    4300078: Key 0
+    4300080: case
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
