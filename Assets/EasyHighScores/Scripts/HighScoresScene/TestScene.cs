@@ -47,6 +47,8 @@ public class TestScene : MonoBehaviour
   {
     GUI.matrix = Matrix4x4.TRS(new Vector3(0, 0, 0), Quaternion.identity, new Vector3(Screen.width / NaturalHorizontalRes, Screen.height / NaturalVerticalRes, 1));
 
+    GUI.Label(new Rect(20, 20, 800, 40), "Erno Version 1,  2 Cubes version");
+
     if(GUI.Button(new Rect((NaturalHorizontalRes / 2) - 200, 300, 400, 60), "End Game Submit Score"))
     {
       PlayerPrefs.SetInt("CurrentScore", 1000 * Random.Range(1, 100));

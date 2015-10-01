@@ -533,6 +533,7 @@ public class HighScores : MonoBehaviour
 
     GUI.matrix = Matrix4x4.TRS(new Vector3(0,0,0),Quaternion.identity,new Vector3(Screen.width / NaturalHorizontalRes,Screen.height / NaturalVerticalRes,1));
 
+
     if(GUI.Button(MenuButtonPos,"MENU"))
     {
       StartCoroutine(LoadScene("TestScene",1.0f));                                       /* add your return scene here */
