@@ -80,7 +80,7 @@ GameObject:
   - 23: {fileID: 110}
   - 65: {fileID: 202}
   - 114: {fileID: 269}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key space
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99,7 +99,7 @@ GameObject:
   - 23: {fileID: 111}
   - 65: {fileID: 195}
   - 114: {fileID: 276}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key z
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118,7 +118,7 @@ GameObject:
   - 23: {fileID: 112}
   - 65: {fileID: 197}
   - 114: {fileID: 274}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ GameObject:
   - 23: {fileID: 113}
   - 65: {fileID: 221}
   - 114: {fileID: 250}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -156,7 +156,7 @@ GameObject:
   - 23: {fileID: 114}
   - 65: {fileID: 199}
   - 114: {fileID: 272}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key v
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -175,7 +175,7 @@ GameObject:
   - 23: {fileID: 115}
   - 65: {fileID: 222}
   - 114: {fileID: 249}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,7 +194,7 @@ GameObject:
   - 23: {fileID: 116}
   - 65: {fileID: 208}
   - 114: {fileID: 263}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key n
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -213,7 +213,7 @@ GameObject:
   - 23: {fileID: 117}
   - 65: {fileID: 209}
   - 114: {fileID: 262}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key m
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -232,7 +232,7 @@ GameObject:
   - 23: {fileID: 118}
   - 65: {fileID: 218}
   - 114: {fileID: 253}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key done
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   - 23: {fileID: 119}
   - 65: {fileID: 223}
   - 114: {fileID: 248}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -270,7 +270,7 @@ GameObject:
   - 23: {fileID: 120}
   - 65: {fileID: 203}
   - 114: {fileID: 268}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key s
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -289,7 +289,7 @@ GameObject:
   - 23: {fileID: 121}
   - 65: {fileID: 220}
   - 114: {fileID: 251}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key d
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -308,7 +308,7 @@ GameObject:
   - 23: {fileID: 122}
   - 65: {fileID: 216}
   - 114: {fileID: 255}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key f
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -327,7 +327,7 @@ GameObject:
   - 23: {fileID: 123}
   - 65: {fileID: 215}
   - 114: {fileID: 256}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key g
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -346,7 +346,7 @@ GameObject:
   - 23: {fileID: 124}
   - 65: {fileID: 214}
   - 114: {fileID: 257}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key h
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -365,7 +365,7 @@ GameObject:
   - 23: {fileID: 125}
   - 65: {fileID: 212}
   - 114: {fileID: 259}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key j
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ GameObject:
   - 23: {fileID: 126}
   - 65: {fileID: 211}
   - 114: {fileID: 260}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key k
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -403,7 +403,7 @@ GameObject:
   - 23: {fileID: 127}
   - 65: {fileID: 210}
   - 114: {fileID: 261}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key l
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -422,7 +422,7 @@ GameObject:
   - 23: {fileID: 128}
   - 65: {fileID: 219}
   - 114: {fileID: 252}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key del
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -441,7 +441,7 @@ GameObject:
   - 23: {fileID: 129}
   - 65: {fileID: 205}
   - 114: {fileID: 266}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key q
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -460,7 +460,7 @@ GameObject:
   - 23: {fileID: 130}
   - 65: {fileID: 198}
   - 114: {fileID: 273}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key w
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +479,7 @@ GameObject:
   - 23: {fileID: 131}
   - 65: {fileID: 217}
   - 114: {fileID: 254}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key e
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +498,7 @@ GameObject:
   - 23: {fileID: 132}
   - 65: {fileID: 204}
   - 114: {fileID: 267}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key r
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -517,7 +517,7 @@ GameObject:
   - 23: {fileID: 133}
   - 65: {fileID: 201}
   - 114: {fileID: 270}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key t
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -536,7 +536,7 @@ GameObject:
   - 23: {fileID: 134}
   - 65: {fileID: 196}
   - 114: {fileID: 275}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -555,7 +555,7 @@ GameObject:
   - 23: {fileID: 135}
   - 65: {fileID: 200}
   - 114: {fileID: 271}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key u
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -574,7 +574,7 @@ GameObject:
   - 23: {fileID: 136}
   - 65: {fileID: 213}
   - 114: {fileID: 258}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key i
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -593,7 +593,7 @@ GameObject:
   - 23: {fileID: 137}
   - 65: {fileID: 207}
   - 114: {fileID: 264}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key o
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -612,7 +612,7 @@ GameObject:
   - 23: {fileID: 138}
   - 65: {fileID: 206}
   - 114: {fileID: 265}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key p
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -631,7 +631,7 @@ GameObject:
   - 23: {fileID: 139}
   - 65: {fileID: 232}
   - 114: {fileID: 57}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -650,7 +650,7 @@ GameObject:
   - 23: {fileID: 140}
   - 65: {fileID: 231}
   - 114: {fileID: 58}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -669,7 +669,7 @@ GameObject:
   - 23: {fileID: 141}
   - 65: {fileID: 230}
   - 114: {fileID: 108}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -688,7 +688,7 @@ GameObject:
   - 23: {fileID: 142}
   - 65: {fileID: 229}
   - 114: {fileID: 109}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -707,7 +707,7 @@ GameObject:
   - 23: {fileID: 143}
   - 65: {fileID: 228}
   - 114: {fileID: 237}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -726,7 +726,7 @@ GameObject:
   - 23: {fileID: 144}
   - 65: {fileID: 227}
   - 114: {fileID: 238}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -745,7 +745,7 @@ GameObject:
   - 23: {fileID: 145}
   - 65: {fileID: 226}
   - 114: {fileID: 243}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -764,7 +764,7 @@ GameObject:
   - 23: {fileID: 146}
   - 65: {fileID: 225}
   - 114: {fileID: 245}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -783,7 +783,7 @@ GameObject:
   - 23: {fileID: 147}
   - 65: {fileID: 224}
   - 114: {fileID: 247}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -802,7 +802,7 @@ GameObject:
   - 23: {fileID: 148}
   - 65: {fileID: 233}
   - 114: {fileID: 56}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Key 0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -819,7 +819,7 @@ GameObject:
   - 4: {fileID: 99}
   - 33: {fileID: 192}
   - 23: {fileID: 149}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: case
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -834,7 +834,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 59}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Cloner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -849,7 +849,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 100}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: keyboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -866,7 +866,7 @@ GameObject:
   - 4: {fileID: 101}
   - 33: {fileID: 193}
   - 23: {fileID: 150}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -883,7 +883,7 @@ GameObject:
   - 4: {fileID: 102}
   - 102: {fileID: 239}
   - 23: {fileID: 151}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: PlayerName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -899,7 +899,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 103}
   - 108: {fileID: 240}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Point light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -916,7 +916,7 @@ GameObject:
   - 4: {fileID: 105}
   - 114: {fileID: 244}
   - 82: {fileID: 235}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: highscores
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -935,7 +935,7 @@ GameObject:
   - 92: {fileID: 236}
   - 124: {fileID: 242}
   - 81: {fileID: 234}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1556,7 +1556,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 52}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.37486172, y: 1.07680368, z: -1.0138551}
+  m_LocalPosition: {x: 1.84000003, y: -.479999989, z: -1.0138551}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 709769584}
@@ -4261,6 +4261,66 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fb0756a8fd87494282275164b6c0113, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &371182616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 371182619}
+  - 33: {fileID: 371182618}
+  - 23: {fileID: 371182617}
+  m_Layer: 0
+  m_Name: Cube (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &371182617
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 371182616}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 41d9220da534df54e919e236bd55c6f9, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &371182618
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 371182616}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &371182619
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 371182616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.13999999, y: .829999983, z: 2.13000011}
+  m_LocalScale: {x: .5, y: .5, z: .5}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
 --- !u!1 &709769583
 GameObject:
   m_ObjectHideFlags: 0
@@ -4269,7 +4329,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 709769584}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: WholeScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4292,3 +4352,63 @@ Transform:
   - {fileID: 103}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!1 &1512646172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 1512646175}
+  - 33: {fileID: 1512646174}
+  - 23: {fileID: 1512646173}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &1512646173
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1512646172}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_Materials:
+  - {fileID: 2100000, guid: aa142fa565dbc4b12ae56557753192a9, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_ReflectionProbeUsage: 0
+  m_ProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_ImportantGI: 0
+  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+--- !u!33 &1512646174
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1512646172}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1512646175
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1512646172}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.13999999, y: .829999983, z: 2.13000011}
+  m_LocalScale: {x: .5, y: .5, z: .5}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
